@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "EmailAddress",
+        "ParameterValue": "lmmakhu@amazon.com"
+    },
+    {
+        "ParameterKey": "KeyPairName",
+        "ParameterValue": "id_rsa_EC2KP"
+    }
+]
